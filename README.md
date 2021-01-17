@@ -1,5 +1,6 @@
+Deployed Link: https://google-react-booksearch.herokuapp.com/
 
-
+![](https://github.com/SApuzzo27/google__book_react/blob/main/assets/googlereactappscreenshot.png)
 # Google Books Search
 
 ---
@@ -36,7 +37,7 @@ Search for books on the Google
 ---
 
 
-
+You can reach me here or at SA.Apuzzo@gmail.com
 
 
 ## Contributing
