@@ -1,10 +1,11 @@
-Deployed Link: https://google-react-booksearch.herokuapp.com/
 
-![](https://github.com/SApuzzo27/google__book_react/blob/main/assets/googlereactappscreenshot.png)
 # Google Books Search
 
----
+![](https://github.com/SApuzzo27/google__book_react/blob/main/assets/googlereactappscreenshot.png)
 
+## Usage
+Deployed Link: https://google-react-booksearch.herokuapp.com/
+- Use the App
 ## Description
 
 ---
@@ -21,12 +22,7 @@ Search for books on the Google
 
 ![preview]()
 
-## Usage
 
----
-
-- Navigate to [google-books-search](https://whispering-basin-98176.herokuapp.com/).
-- Use the App
 
 ## Tests
 
